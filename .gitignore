@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+tempcwd/
+.pytest_cache/
+build/
+dist/
+.vscode/
